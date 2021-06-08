@@ -1,0 +1,44 @@
+* {
+  margin: 3px;
+  padding: 0;
+}
+
+html {
+  font-size: 10;
+}
+
+body {
+  font-size: medium;
+}
+
+title {
+  font-size: 1500px;
+  font-style: italic;
+}
+
+.container {
+  max-width: 1000px;
+  margin-left: 0 5rem;
+}
+
+h1 {
+  color: darkblue;
+}
+
+h2 {
+  color: firebrick;
+}
+
+h3 {
+  color: coral;
+}
+
+.image {
+  height: 5rem;
+  width: 20rem;
+}
+
+p {
+  font: size 40rem;
+  color: black;
+}
